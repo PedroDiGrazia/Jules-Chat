@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a23c034b.css",
+    "main.js": "/static/js/main.525ce5f4.js",
+    "static/js/787.a4ba0ea4.chunk.js": "/static/js/787.a4ba0ea4.chunk.js",
+    "static/media/orangeguy.png": "/static/media/orangeguy.8ab732df6b87f4e0b1a0.png",
+    "index.html": "/index.html",
+    "main.a23c034b.css.map": "/static/css/main.a23c034b.css.map",
+    "main.525ce5f4.js.map": "/static/js/main.525ce5f4.js.map",
+    "787.a4ba0ea4.chunk.js.map": "/static/js/787.a4ba0ea4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a23c034b.css",
+    "static/js/main.525ce5f4.js"
+  ]
+}

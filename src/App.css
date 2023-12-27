@@ -1,0 +1,157 @@
+body{
+  background-color: #333;
+}
+
+.home-container{
+  background-color: #FF783B;
+  width:auto;
+  padding: 5px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  width: 600px;
+  margin: auto;
+  margin-top: 5px;
+  border-radius: 30px;
+}
+
+#orangeguy{
+  margin-top: 55px;
+  height: 680px;
+  float: left;
+}
+
+.chat-area{
+  float: right;
+  background-color: #73737399;
+  margin-top: 30px;
+  margin-right: 100px;
+  width: 737px;
+  height: 630px;
+  border-radius: 40px;
+  border-bottom-left-radius: 0px;
+  border-style:solid;
+  border-color: rgba(255, 255, 255, 0.414);
+}
+
+#regras-chat{
+  border-radius: 20px;
+  padding: 10px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: white;
+  width: 300px;
+  height: 300px;
+  margin-top: 150px;
+}
+
+#botao-regra{
+  background-color: greenyellow;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #333;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+#botao-regra:hover{
+  background-color: rgba(131, 187, 47, 0.783);
+}
+
+#fundo-regra{
+  float: right; 
+  background-color: #595959;
+  width: 730px;
+  height: 620px;
+  border-radius: 40px;
+  border-bottom-left-radius: 0px;
+  border-style:solid;
+  border-color: rgba(255, 255, 255, 0);
+}
+
+#msg-inicio{
+  margin-left: 20px;
+  background-color: white;
+  width: max-content;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 20px;
+  border-bottom-left-radius: 0px;
+  font-size: 15px;
+  font-family:sans-serif;
+  border-style: solid;
+  border-color: #FF783B;
+  border-width: 1px;
+}
+
+#msg-user{
+  margin-left: 250px;
+  background-color: #FF783B;
+  width: max-content;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 20px;
+  border-bottom-right-radius: 0px;
+  font-size: 15px;
+  font-family:sans-serif;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+
+#como-funciona{
+  background-color: greenyellow;
+  color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 10px;
+  border-color: rgb(0, 0, 0);
+}
+
+#como-funciona:hover{
+  cursor: pointer;
+  background-color: rgba(131, 187, 47, 0.783);
+}
+
+#campo-texto{
+  position:relative;
+  top: 370px;
+  background-color: #333333b9;
+  width: 700px;
+  border-radius: 20px;
+  margin-left: 10px;
+  border-bottom-left-radius: 0px;
+}
+
+#campo-texto-area{
+  position:relative;
+  top: 7px;
+  background-color: #33333300;
+  border: #33333300;
+  margin-top: 10px;
+  margin-left: 5px;
+  font-size: 15px;
+  width: 550px;
+  outline:none;
+  resize:none;
+  color: white;
+  font-family: sans-serif;
+}
+
+#enviar-button{
+  margin-left: 20px;
+  position:absolute;
+  top: 713px;
+  left: 1300px;
+  background-color: #FF783B;
+  color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 10px;
+  border-color: rgba(0, 0, 0, 0);
+  padding: 10px;
+}
+
+#enviar-button:hover{
+  cursor: pointer;
+  background-color: #ff793bb6;
+}
+
